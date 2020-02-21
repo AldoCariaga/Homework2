@@ -1,0 +1,11 @@
+C:\Users\Aldo Cariaga\Downloads\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Aldo Cariaga\Downloads\Homework2\bin\Debug\Homework2.exe
+C:\Users\Aldo Cariaga\Downloads\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Aldo Cariaga\Downloads\Homework2\bin\Debug\Homework2.xml
+C:\Users\Aldo Cariaga\Downloads\Homework2\obj\Debug\Homework2.vbprojAssemblyReference.cache
+C:\Users\Aldo Cariaga\Downloads\Homework2\obj\Debug\Homework2.Form1.resources
+C:\Users\Aldo Cariaga\Downloads\Homework2\obj\Debug\Homework2.Resources.resources
+C:\Users\Aldo Cariaga\Downloads\Homework2\obj\Debug\Homework2.vbproj.GenerateResource.cache
+C:\Users\Aldo Cariaga\Downloads\Homework2\obj\Debug\Homework2.exe
+C:\Users\Aldo Cariaga\Downloads\Homework2\obj\Debug\Homework2.xml
+C:\Users\Aldo Cariaga\Downloads\Homework2\obj\Debug\Homework2.pdb
